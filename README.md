@@ -22,7 +22,7 @@ To use this script, follow these steps:
 
 3. Navigate to the project directory:
     ```shell 
-    cd custom-arp-packet-generator
+    cd arp_poisoning
 
 Modify the Python script (custom_arp_generator.py) to customize the ARP packets as per your requirements. You can specify the source and destination IP addresses, MAC addresses, and other ARP packet fields.
 
